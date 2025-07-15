@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sajid Shaikh</h1>
+<h3 align="center">A passionate Full Stack Java Developer from Pune, India 🇮🇳</h3>
 
-<!--
-**sajidbaba1/sajidbaba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: **Spring Boot Web Apps, Flutter Mobile Apps**
+- 🌱 I’m currently learning: **DevOps, Kubernetes, and Generative AI**
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://sajidshaikhportfolio.netlify.app)
+- 📫 Reach me at: **ss2727303@gmail.com**
+- ⚡ Fun fact: I love solving DSA problems while sipping chai ☕
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 🔥 My Featured Projects:
+- 🚀 [B2B Multivendor E-Commerce Web App](https://github.com/sajidbaba1/B2B-E-Commeerce-Multivendor-Web-Application)  
+  Spring Boot • Spring Security • MySQL • API Testing • HTML/CSS/JS
+
+- 📚 [Online Bookstore Web App](https://github.com/sajidbaba1)  
+  Java • Spring Boot • Hibernate • React • REST API
+
+- 📱 [Habit Tracker App (Flutter)](https://github.com/sajidbaba1/Habit-Tracker-App)  
+  Flutter • Dart • SQLite • Gradle
+
+- 🎵 [Mood Vibes](https://moodapps.netlify.app)  
+  Flutter • Firebase • Lottie Animations
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajidbaba1&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidbaba1&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 📫 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/sajid-shaikh-1a7300252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ss2727303@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sajidshaikhportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" />
+  </a>
+</p>
