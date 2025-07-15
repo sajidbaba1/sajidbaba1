@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Spring Boot Web Apps, Flutter Mobile Apps**
 - 🌱 I’m learning: **DevOps, Kubernetes, and Generative AI**
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://sajidshaikhportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://sajidport.netlify.app)
 - 💬 Ask me about: Java, Spring Boot, MySQL, Flutter, REST APIs
 - 📫 How to reach me: **ss2727303@gmail.com**
 - ⚡ Fun fact: I’ve earned **26 GitHub Stars ⭐** across all my projects!
