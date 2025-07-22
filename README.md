@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Shaikh</h1>
-<h3 align="center">A passionate Full Stack Java Developer from Pune, India 🇮🇳</h3>
+<h3 align="center">An AI Enthusiast & Passionate Full Stack Java Developer from Pune, India 🇮🇳 — Building AI-powered web apps, always learning, always exploring 🚀</h3>
 
 - 🔭 I’m currently working on: **Spring Boot Web Apps, Flutter Mobile Apps**
 - 🌱 I’m learning: **DevOps, Kubernetes, and Generative AI**
