@@ -2,7 +2,7 @@
 **Full Stack Polyglot Architect & AI Enthusiast** from Pune, India 🇮🇳  
 *Building mission-critical, high-scale microservices platforms.*
 
-🔭 **Flagship Project:** [Eurusys Watchtower](https://github.com/sajidbaba1/Er-Watchtower-Microservices-application)  
+🔭 **Flagship Project:** [Microservices Watchtower](https://github.com/sajidbaba1/Er-Watchtower-Microservices-application)  
 *A government-grade logistics monitoring platform built for the Eurusys 40 LPA engineering challenge.*
 
 ---
