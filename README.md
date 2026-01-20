@@ -35,4 +35,4 @@
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sajid-shaikh-a0414a22b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [Portfolio](YOUR_PORTFOLIO_URL) | [Email](mailto:ss2727303@gmail.com)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sajid-shaikh-a0414a22b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [Portfolio](https://sajidshaikhportfolio.netlify.app/) | [Email](mailto:ss2727303@gmail.com)
